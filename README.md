@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yassine Afsa</h1>
+<h3 align="center">Mobile Software Engineer | Flutter & Android Specialist</h3>
 
-<!--
-**afsus12/afsus12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 Building scalable mobile applications <br>
+🏦 FinTech & Enterprise Solutions <br>
+🧠 Clean Architecture Advocate
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Mobile
+Flutter • Kotlin • Jetpack Compose • Android SDK  
+
+### 🧠 Backend
+Spring Boot • Node.js • .NET • REST APIs  
+
+### ⚙️ DevOps
+Docker • CI/CD • Firebase • GitHub Actions  
+
+---
+
+⚡ "First solve the problem. Then write the code."
